@@ -1,8 +1,14 @@
-# React + Vite
+# ChatBud powered by Gemini
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Simple chating buddy for a user to talk about random things.
+For example:
+1. How much time will it take to travel from Delhi Airport to India Gate?
+2. Who won the last year's IPL trophy?
+3. Tell something interesting about Sharks.
 
-Currently, two official plugins are available:
+<img width="880" alt="image" src="https://github.com/bhavkushwaha/ChatBud-Gemini/assets/75977991/c3cb5867-6fd3-47b3-9781-a5bedaffd18b">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+The UI will improve from here and more features will be added in the v2.<br>
+Built using **React** in frontend and **Node.js** for backend!
+
