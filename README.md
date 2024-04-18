@@ -1,5 +1,7 @@
 # ChatBud powered by Gemini
 
+https://chatbud-gemini.onrender.com
+
 A Simple chating buddy for a user to talk about random things.
 For example:
 1. How much time will it take to travel from Delhi Airport to India Gate?
